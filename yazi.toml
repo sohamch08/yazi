@@ -1,0 +1,7 @@
+[mgr]
+linemode = "size_and_mtime"
+show_header = true
+sort_dir_first = true
+sort_by = "alphabetical"
+show_symlink = true
+show_hidden = true
