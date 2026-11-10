@@ -1,3 +1,6 @@
 [flavor]
 dark = "catppuccin-mocha"
 light = "catppuccin-mocha"
+
+[icon]
+prepend_globs = [{ url = "**/*password-store*/", text = "", fg = "#D7BA7D" }]
